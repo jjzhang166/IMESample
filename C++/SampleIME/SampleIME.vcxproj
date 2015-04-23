@@ -59,6 +59,7 @@
     <ClInclude Include="SampleIME.h" />
     <ClInclude Include="ScrollBarWindow.h" />
     <ClInclude Include="ShadowWindow.h" />
+    <ClInclude Include="StatusBarWindow.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="TableDictionaryEngine.h" />
     <ClInclude Include="TfInputProcessorProfile.h" />
@@ -104,6 +105,7 @@
     <ClCompile Include="Server.cpp" />
     <ClCompile Include="ShadowWindow.cpp" />
     <ClCompile Include="StartComposition.cpp" />
+    <ClCompile Include="StatusBarWindow.cpp" />
     <ClCompile Include="TableDictionaryEngine.cpp" />
     <ClCompile Include="SampleIME.cpp" />
     <ClCompile Include="TextEditSink.cpp" />
